@@ -1,0 +1,20 @@
+Fiche technique : Adresse IP
+1. Définition
+
+Une adresse IP est une adresse qui permet d’identifier un appareil sur un réseau.
+
+2. À quoi ça sert ?
+
+Elle permet aux appareils de communiquer entre eux sur un réseau.
+
+3. Exemple d’utilisation
+
+Un ordinateur peut avoir l’adresse IP 192.168.1.10 et communiquer avec une imprimante.
+
+4. Commande / outil associé
+
+La commande ipconfig permet de voir l’adresse IP de son ordinateur.
+
+5. Ce que j’ai appris
+
+J’ai appris qu’une adresse IP sert à identifier un appareil et à permettre la communication sur un réseau.
