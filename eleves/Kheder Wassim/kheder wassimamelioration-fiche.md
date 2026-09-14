@@ -2,7 +2,6 @@ proposition d'amélioration
 
 Fiche concernée: kheder wassimfiche-technique(1).md
 
-
 Ce qui pourait etre amélioré: 
 
 la présentation
