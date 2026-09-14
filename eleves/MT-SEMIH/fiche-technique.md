@@ -18,3 +18,9 @@ La commande ipconfig permet de voir l’adresse IP d’un ordinateur.
  Ce que j’ai appris
 
 J’ai appris qu’une adresse IP est importante pour communiquer sur un réseau.
+
+MODIFICATION POUR LE DEFI FINAL : 
+
+MOHAMED ET SEMIH LES BOSS 
+
+NARUTO > ONE PIECE
