@@ -12,4 +12,4 @@ Commande Windows : ipconfig
 Commande Linux : ip addr
 Matériel : box Internet, routeur, ordinateur, téléphone.
 ## 5. Ce que j’ai appris
-J’ai appris qu’une adresse IP permet d’identifier un appareil sur un réseau. J’ai aussi appris à trouver l’adresse IP d’un ordinateur avec la commande ipconfig.
+J’ai appris qu’une adresse IP permet d’identifier un appareil sur un réseau. J’ai aussi appris à trouver l’adresse IP d’un ordinateur avec la commande ipconfig
