@@ -14,4 +14,4 @@ Gestion électrique & ContrôleDriver (Alimentation) : Convertit le courant (230
 
 ## 5. Ce que j’ai appris
 La led est un composant électronique qui va faire de la lumière lorsque un courant électrique circule.
-La led ne consomme pas beacoup d'énergie elle est très efficace,et est souvent utilisé pour la décoration.
+La led ne consomme pas beacoup d'énergie elle est très efficace,et est souvent utilisé pour la décoration .
